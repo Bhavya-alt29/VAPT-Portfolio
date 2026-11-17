@@ -1,2 +1,2 @@
-# Networking-and-Network-Security-Portfolio
-A practical portfolio documenting networking fundamentals, network protocols, security concepts, hands-on labs, and network VAPT activities.
+# VAPT-Portfolio
+Practical cybersecurity portfolio covering networking, network penetration testing, web application security, Android and iOS security testing, and vulnerability assessments.
